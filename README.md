@@ -1,4 +1,4 @@
-<h2 align="center"><u>About Me!</u></h2>
+<h2 align="center"><u>About Me</u></h2>
 
 - 👨🏽‍💻 I’m currently learning Web Development
 - 📚 I’m currently studying Computer Science
