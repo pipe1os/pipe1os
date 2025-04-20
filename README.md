@@ -32,6 +32,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pipe1os&theme=holi-theme">
 </p>
 
-<h2 align="center"><u>Cool Snake<u></h2>
+<h2 align="center"><u>Snake<u></h2>
   
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
