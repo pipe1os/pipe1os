@@ -29,8 +29,8 @@
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pipe1os&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pipe1os&theme=github_dark">
+<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=pipe1os&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<img align="center" width="439px" src="https://github-readme-streak-stats.herokuapp.com/?user=pipe1os&theme=github_dark">
 <br>
 <br>
 </p>
