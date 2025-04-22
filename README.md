@@ -19,19 +19,31 @@
     <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" /> 
     <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" /> 
   </kbd>
+  <br>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipe1os&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+  <br>
+  <br>
 </p>
 
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipe1os&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pipe1os&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pipe1os&theme=holi-theme">
-</p>
 
-<h2 align="center"><u>Snake<u></h2>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pipe1os&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pipe1os&theme=github_dark">
+<br>
+<br>
+</p>
+<h2 align="center"><u>My Projects</u>
+<br>
+<br>
+<p style="display: inline-block; font-size: 50px;" align="center">
+<a href="https://github.com/pipe1os/feucsc-finance-portal" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pipe1os&repo=feucsc-finance-portal&show_owner=true&theme=github_dark"></a> 
+<a href="https://github.com/pipe1os/OpenFiles" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pipe1os&repo=OpenFiles&show_owner=true&theme=github_dark">
+</p>
+<br>
+<br>
+
+<h2 align="center"><u>Snake</u></h2>
   
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
