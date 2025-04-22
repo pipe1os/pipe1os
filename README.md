@@ -1,4 +1,5 @@
 <h2 align="center"><u>About Me</u></h2>
+<br>
 
 - 👨🏽‍💻 I’m currently learning Web Development
 - 📚 I’m currently studying Computer Science
@@ -21,12 +22,15 @@
   </kbd>
   <br>
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipe1os&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+  <img align="center" width="322px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipe1os&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
   <br>
   <br>
 </p>
 
 <h2 align="center"><u>My Github Stats</u></h2>
+<br>
+
+
 <p align="center">
 
 <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=pipe1os&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
@@ -34,7 +38,7 @@
 <br>
 <br>
 </p>
-<h2 align="center"><u>My Projects</u>
+<h2 align="center"><u>My Projects</u></h2>
 <br>
 <br>
 <p style="display: inline-block; font-size: 50px;" align="center">
