@@ -3,8 +3,9 @@
 
 - 👨🏽‍💻 I’m currently learning Web Development
 - 📚 I’m currently studying Computer Science
-- 🤔 My interest for now lies in Front-End Web Development, Machine Learning, Deep Learning and AI
+- 🤔 My interest for now lies in Front-End Web Development, Machine Learning, Deep Learning and AI<br>
 - 📫 How to reach me: felipearce.2004@gmail.com
+<br>
 
 
 <p style="display: inline-block; font-size: 50px;" align="center">
@@ -25,6 +26,15 @@
   <img align="center" width="322px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipe1os&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
   <br>
   <br>
+  <div align="center">
+  <h5>Contact</h5>
+  <a href="mailto:felipearce.2004@gmail.com" target="_blank">
+    <img width="70px" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-arce-aqueveque-5b5485292" target="_blank">
+    <img width="70px" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  </div>
 </p>
 
 <h2 align="center"><u>My Github Stats</u></h2>
