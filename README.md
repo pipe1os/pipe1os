@@ -54,6 +54,9 @@
 <p style="display: inline-block; font-size: 50px;" align="center">
 <a href="https://github.com/pipe1os/feucsc-finance-portal" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pipe1os&repo=feucsc-finance-portal&show_owner=true&theme=github_dark"></a> 
 <a href="https://github.com/pipe1os/OpenFiles" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pipe1os&repo=OpenFiles&show_owner=true&theme=github_dark">
+<br>
+<br>
+<a href="https://github.com/pipe1os/downloads-auto-sorter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pipe1os&repo=downloads-auto-sorter&show_owner=true&theme=github_dark">
 </p>
 <br>
 <br>
