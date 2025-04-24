@@ -57,6 +57,7 @@
 <br>
 <br>
 <a href="https://github.com/pipe1os/downloads-auto-sorter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pipe1os&repo=downloads-auto-sorter&show_owner=true&theme=github_dark">
+<a href="https://github.com/pipe1os/clipboard-manager" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pipe1os&repo=clipboard-manager&show_owner=true&theme=github_dark">
 </p>
 <br>
 <br>
