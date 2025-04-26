@@ -1,10 +1,5 @@
 <h2 align="center"><u>About Me</u></h2>
 <br>
-
-- 👨🏽‍💻 I’m currently learning Web Development
-- 📚 I’m currently studying Computer Science
-- 🤔 My interests for now lies in Front-End Web Development, Machine Learning, Deep Learning and AI<br>
-- 📫 How to reach me: felipearce.2004@gmail.com
 <br>
 
 
