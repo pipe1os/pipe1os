@@ -1,9 +1,3 @@
-## 📬 Contact
-[![Email](https://img.shields.io/badge/Email-felipearce.2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipearce.2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pipeos/)
-
----
-
 ## 🛠️ Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
