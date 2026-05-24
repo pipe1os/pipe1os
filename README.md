@@ -18,9 +18,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+<br>
+<br>
 
-<br>
-<br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pipe1os&theme=dark" alt="GitHub Streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=pipe1os&theme=github-dark-blue" alt="pipe1os GitHub streak" />
 </p>
