@@ -1,6 +1,6 @@
 ##  Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,tailwind,supabase,postgres,python,git" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,tailwind,supabase,postgres,python" />
 </div>
 
 ## Learning
