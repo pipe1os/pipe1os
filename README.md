@@ -5,7 +5,7 @@
 
 ## Learning
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=svelte,docker,aws,bun,go,cpp" />
+  <img src="https://skillicons.dev/icons?i=svelte,docker,aws,go,cpp" />
 </div>
 <br>
 <br>
