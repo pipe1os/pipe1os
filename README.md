@@ -1,11 +1,11 @@
 ##  Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,tailwind,supabase,postgres,python" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,tailwind,supabase,postgres,python, cpp" />
 </div>
 
 ## Learning
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=svelte,docker,aws,go,cpp" />
+  <img src="https://skillicons.dev/icons?i=svelte,docker,aws,go" />
 </div>
 <br>
 <br>
