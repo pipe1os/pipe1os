@@ -1,16 +1,35 @@
-##  Skills
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,postgres,python,cpp" />
-</div>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" width="100%" alt="Felipe Arce, full stack developer in Concepción, Chile. Open to work."></picture></p>
 
-## Learning
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=svelte,docker,aws,go" />
-</div>
+<p>
+  <a href="https://pipeos.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg"><img src="assets/link-portfolio-light.svg" height="40" alt="pipeos.dev"></picture></a>
+  <a href="https://www.linkedin.com/in/pipeos/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img src="assets/link-linkedin-light.svg" height="40" alt="LinkedIn"></picture></a>
+  <a href="mailto:felipearce.2004@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img src="assets/link-email-light.svg" height="40" alt="Email"></picture></a>
+</p>
+
 <br>
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-oss-dark.svg"><img src="assets/title-oss-light.svg" width="100%" alt="Contributed to"></picture></p>
+
+<p><a href="https://github.com/boykopovar/AnyPS5"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=pipe1os&repo=boykopovar%2FAnyPS5&description_lines_count=3&card_width=304&border_radius=8&show_owner=true&bg_color=0c0c0d&title_color=ecebe6&text_color=8f8e89&icon_color=8f8e89&border_color=2c2c2d"><img src="https://github-stats-extended.vercel.app/api/pin?username=pipe1os&repo=boykopovar%2FAnyPS5&description_lines_count=3&card_width=304&border_radius=8&show_owner=true&bg_color=ffffff&title_color=0c0c0d&text_color=63625e&icon_color=63625e&border_color=d6d5cf" width="32.8%" alt="boykopovar/AnyPS5"></picture></a><img src="assets/gap.svg" width="0.7%" alt=""><a href="https://github.com/withastro/astro"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=pipe1os&repo=withastro%2Fastro&description_lines_count=3&card_width=304&border_radius=8&show_owner=true&bg_color=0c0c0d&title_color=ecebe6&text_color=8f8e89&icon_color=8f8e89&border_color=2c2c2d"><img src="https://github-stats-extended.vercel.app/api/pin?username=pipe1os&repo=withastro%2Fastro&description_lines_count=3&card_width=304&border_radius=8&show_owner=true&bg_color=ffffff&title_color=0c0c0d&text_color=63625e&icon_color=63625e&border_color=d6d5cf" width="32.8%" alt="withastro/astro"></picture></a><img src="assets/gap.svg" width="0.7%" alt=""><a href="https://github.com/strands-agents/harness-sdk"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=pipe1os&repo=strands-agents%2Fharness-sdk&description_lines_count=3&card_width=304&border_radius=8&show_owner=true&bg_color=0c0c0d&title_color=ecebe6&text_color=8f8e89&icon_color=8f8e89&border_color=2c2c2d"><img src="https://github-stats-extended.vercel.app/api/pin?username=pipe1os&repo=strands-agents%2Fharness-sdk&description_lines_count=3&card_width=304&border_radius=8&show_owner=true&bg_color=ffffff&title_color=0c0c0d&text_color=63625e&icon_color=63625e&border_color=d6d5cf" width="32.8%" alt="strands-agents/harness-sdk"></picture></a></p>
+
 <br>
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=pipe1os&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=pipe1os&layout=compact&langs_count=6&theme=dark_github"  />
-  <img src="https://raw.githubusercontent.com/pipe1os/pipe1os/streak-output/streak.svg?v=1" height="150" alt="streak graph"  />
-</div>
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-work-dark.svg"><img src="assets/title-work-light.svg" width="100%" alt="My work"></picture></p>
+
+<p><a href="https://github.com/CEOUBB/CEOUBB"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=pipe1os&repo=CEOUBB%2FCEOUBB&description_lines_count=3&card_width=304&border_radius=8&bg_color=0c0c0d&title_color=ecebe6&text_color=8f8e89&icon_color=8f8e89&border_color=2c2c2d"><img src="https://github-stats-extended.vercel.app/api/pin?username=pipe1os&repo=CEOUBB%2FCEOUBB&description_lines_count=3&card_width=304&border_radius=8&bg_color=ffffff&title_color=0c0c0d&text_color=63625e&icon_color=63625e&border_color=d6d5cf" width="32.8%" alt="CEOUBB/CEOUBB"></picture></a><img src="assets/gap.svg" width="0.7%" alt=""><a href="https://github.com/pipe1os/shipdot"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=pipe1os&repo=pipe1os%2Fshipdot&description_lines_count=3&card_width=304&border_radius=8&bg_color=0c0c0d&title_color=ecebe6&text_color=8f8e89&icon_color=8f8e89&border_color=2c2c2d"><img src="https://github-stats-extended.vercel.app/api/pin?username=pipe1os&repo=pipe1os%2Fshipdot&description_lines_count=3&card_width=304&border_radius=8&bg_color=ffffff&title_color=0c0c0d&text_color=63625e&icon_color=63625e&border_color=d6d5cf" width="32.8%" alt="pipe1os/shipdot"></picture></a><img src="assets/gap.svg" width="0.7%" alt=""><a href="https://github.com/pipe1os/modelinfo-cli"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=pipe1os&repo=pipe1os%2Fmodelinfo-cli&description_lines_count=3&card_width=304&border_radius=8&bg_color=0c0c0d&title_color=ecebe6&text_color=8f8e89&icon_color=8f8e89&border_color=2c2c2d"><img src="https://github-stats-extended.vercel.app/api/pin?username=pipe1os&repo=pipe1os%2Fmodelinfo-cli&description_lines_count=3&card_width=304&border_radius=8&bg_color=ffffff&title_color=0c0c0d&text_color=63625e&icon_color=63625e&border_color=d6d5cf" width="32.8%" alt="pipe1os/modelinfo-cli"></picture></a></p>
+
+<p><sub>I also run <a href="https://kumoweb.cl">Kumo</a>, a studio that builds websites and custom software for small businesses across Chile.</sub></p>
+
+<br>
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-stack-dark.svg"><img src="assets/title-stack-light.svg" width="100%" alt="Stack"></picture></p>
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Daily: TypeScript, React, Next.js, Astro, PostgreSQL, Python, C++. Learning: Svelte, Docker, AWS, Go."></picture></p>
+
+<br>
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-activity-dark.svg"><img src="assets/title-activity-light.svg" width="100%" alt="Activity"></picture></p>
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=pipe1os&disable_animations=true&hide_title=true&show_icons=true&include_all_commits=true&hide=contribs&show=all_time_contribs%2Cprs_merged&card_width=496&border_radius=8&ring_color=ff4f1f&bg_color=0c0c0d&title_color=ecebe6&text_color=8f8e89&icon_color=8f8e89&border_color=2c2c2d"><img src="https://github-stats-extended.vercel.app/api?username=pipe1os&disable_animations=true&hide_title=true&show_icons=true&include_all_commits=true&hide=contribs&show=all_time_contribs%2Cprs_merged&card_width=496&border_radius=8&ring_color=ff4f1f&bg_color=ffffff&title_color=0c0c0d&text_color=63625e&icon_color=63625e&border_color=d6d5cf" width="59%" alt="GitHub stats"></picture><img src="assets/gap.svg" width="0.7%" alt=""><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=pipe1os&disable_animations=true&layout=compact&langs_count=8&card_width=338&border_radius=8&bg_color=0c0c0d&title_color=ecebe6&text_color=8f8e89&icon_color=8f8e89&border_color=2c2c2d"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=pipe1os&disable_animations=true&layout=compact&langs_count=8&card_width=338&border_radius=8&bg_color=ffffff&title_color=0c0c0d&text_color=63625e&icon_color=63625e&border_color=d6d5cf" width="40.1%" alt="Most used languages"></picture></p>
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipe1os/pipe1os/streak-output/streak-dark.svg"><img src="https://raw.githubusercontent.com/pipe1os/pipe1os/streak-output/streak-light.svg" width="100%" alt="Contribution streak"></picture></p>

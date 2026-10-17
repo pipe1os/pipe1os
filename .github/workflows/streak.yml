@@ -18,16 +18,20 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: fetch streak.svg
+      - name: fetch streak cards
         run: |
           mkdir -p dist
-          curl -s "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" -o dist/streak.svg
-          if ! grep -q "<svg" dist/streak.svg; then
-            echo "Failed to fetch valid streak SVG"
-            exit 1
-          fi
+          base="https://streak-stats.demolab.com?user=${{ github.repository_owner }}&locale=en&mode=daily&border_radius=8&card_width=838&disable_animations=true&ring=ff4f1f&fire=ff4f1f"
+          curl -s "$base&background=0c0c0d&border=2c2c2d&stroke=2c2c2d&currStreakNum=ecebe6&sideNums=ecebe6&currStreakLabel=ecebe6&sideLabels=8f8e89&dates=8f8e89" -o dist/streak-dark.svg
+          curl -s "$base&background=ffffff&border=d6d5cf&stroke=d6d5cf&currStreakNum=0c0c0d&sideNums=0c0c0d&currStreakLabel=0c0c0d&sideLabels=63625e&dates=63625e" -o dist/streak-light.svg
+          for f in dist/streak-dark.svg dist/streak-light.svg; do
+            if ! grep -q "<svg" "$f"; then
+              echo "Failed to fetch valid streak SVG: $f"
+              exit 1
+            fi
+          done
 
-      - name: push streak.svg to the output branch
+      - name: push streak cards to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: streak-output
