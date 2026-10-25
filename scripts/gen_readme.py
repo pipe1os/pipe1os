@@ -16,7 +16,7 @@ COLORS = {
     "light": "bg_color=ffffff&title_color=0c0c0d&text_color=63625e&icon_color=63625e&border_color=d6d5cf",
 }
 DARK = '(prefers-color-scheme: dark)'
-GAP = '<img src="assets/gap.svg" width="{}" alt="">'
+GAP = '<img src="assets/gap.svg" width="0.7%" alt="">'
 
 CARDS = []  # (file stem, card type, options)
 
@@ -35,20 +35,16 @@ def card(kind, stem, options, alt, width):
     return pic(url("dark"), url("light"), alt, f'width="{width}"')
 
 
-def pin(repo, owner=False, width="32.8%"):
+def pin(repo, owner=False):
     q = f"username=pipe1os&repo={repo}&description_lines_count=3&card_width=304&border_radius=8"
     if owner:
         q += "&show_owner=true"
     stem = "pin-" + repo.replace("/", "-").lower()
-    return f'<a href="https://github.com/{repo}">{card("pin", stem, q, repo, width)}</a>'
+    return f'<a href="https://github.com/{repo}">{card("pin", stem, q, repo, "32.8%")}</a>'
 
 
-def row(items, gap="0.7%"):
-    return "<p>" + GAP.format(gap).join(items) + "</p>"
-
-
-def oss(repo):
-    return pin(repo, True, "49.6%")
+def row(items):
+    return "<p>" + GAP.join(items) + "</p>"
 
 
 STREAK = lambda mode: RAW.format(branch="streak-output", name=f"streak-{mode}.svg")
@@ -65,8 +61,8 @@ blocks = [
     "<p>\n" + "\n".join(f'  <a href="{url}">{asset(f"link-{key}", alt, "height=\"40\"")}</a>' for url, key, alt in LINKS) + "\n</p>",
     "<br>",
     "<p>" + asset("title-oss", "Contributed to") + "</p>",
-    row([oss("withastro/astro"), oss("trpc/trpc")], "0.8%"),
-    row([oss("strands-agents/harness-sdk"), oss("boykopovar/AnyPS5")], "0.8%"),
+    row([pin("withastro/astro", True), pin("trpc/trpc", True), pin("strands-agents/harness-sdk", True)]),
+    row([pin("boykopovar/AnyPS5", True)]),
     "<br>",
     "<p>" + asset("title-work", "My work") + "</p>",
     row([pin("pipe1os/shipdot"), pin("pipe1os/modelinfo-cli"), pin("CEOUBB/CEOUBB")]),
