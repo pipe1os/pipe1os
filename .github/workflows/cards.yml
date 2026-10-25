@@ -19,24 +19,6 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: pin-boykopovar-anyps5 (dark)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=pipe1os&repo=boykopovar/AnyPS5&description_lines_count=3&card_width=304&border_radius=8&show_owner=true&bg_color=0c0c0d&title_color=ecebe6&text_color=8f8e89&icon_color=8f8e89&border_color=2c2c2d
-          path: dist/pin-boykopovar-anyps5-dark.svg
-          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: pin-boykopovar-anyps5 (light)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=pipe1os&repo=boykopovar/AnyPS5&description_lines_count=3&card_width=304&border_radius=8&show_owner=true&bg_color=ffffff&title_color=0c0c0d&text_color=63625e&icon_color=63625e&border_color=d6d5cf
-          path: dist/pin-boykopovar-anyps5-light.svg
-          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
       - name: pin-withastro-astro (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -55,6 +37,24 @@ jobs:
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      - name: pin-trpc-trpc (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=pipe1os&repo=trpc/trpc&description_lines_count=3&card_width=304&border_radius=8&show_owner=true&bg_color=0c0c0d&title_color=ecebe6&text_color=8f8e89&icon_color=8f8e89&border_color=2c2c2d
+          path: dist/pin-trpc-trpc-dark.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: pin-trpc-trpc (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=pipe1os&repo=trpc/trpc&description_lines_count=3&card_width=304&border_radius=8&show_owner=true&bg_color=ffffff&title_color=0c0c0d&text_color=63625e&icon_color=63625e&border_color=d6d5cf
+          path: dist/pin-trpc-trpc-light.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
       - name: pin-strands-agents-harness-sdk (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -70,6 +70,24 @@ jobs:
           card: pin
           options: username=pipe1os&repo=strands-agents/harness-sdk&description_lines_count=3&card_width=304&border_radius=8&show_owner=true&bg_color=ffffff&title_color=0c0c0d&text_color=63625e&icon_color=63625e&border_color=d6d5cf
           path: dist/pin-strands-agents-harness-sdk-light.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: pin-boykopovar-anyps5 (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=pipe1os&repo=boykopovar/AnyPS5&description_lines_count=3&card_width=304&border_radius=8&show_owner=true&bg_color=0c0c0d&title_color=ecebe6&text_color=8f8e89&icon_color=8f8e89&border_color=2c2c2d
+          path: dist/pin-boykopovar-anyps5-dark.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: pin-boykopovar-anyps5 (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=pipe1os&repo=boykopovar/AnyPS5&description_lines_count=3&card_width=304&border_radius=8&show_owner=true&bg_color=ffffff&title_color=0c0c0d&text_color=63625e&icon_color=63625e&border_color=d6d5cf
+          path: dist/pin-boykopovar-anyps5-light.svg
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 

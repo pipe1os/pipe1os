@@ -199,8 +199,9 @@ def chip(t, text, primary):
 
 # ---------- stack ----------
 DAILY = [("TypeScript", "#3178c6"), ("React", "#61dafb"), ("Next.js", None), ("Astro", "#ff5a03"),
-         ("PostgreSQL", "#336791"), ("Python", "#3572a5"), ("C++", "#f34b7d")]
-LEARNING = [("Svelte", "#ff3e00"), ("Docker", "#2496ed"), ("AWS", "#ff9900"), ("Go", "#00add8")]
+         ("Python", "#3572a5"), ("C++", "#f34b7d")]
+LEARNING = [("Svelte", "#ff3e00"), ("Docker", "#2496ed"), ("AWS", "#ff9900"), ("Go", "#00add8"),
+            ("PostgreSQL", "#336791")]
 
 
 def stack(t):

@@ -10,7 +10,9 @@
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-oss-dark.svg"><img src="assets/title-oss-light.svg" width="100%" alt="Contributed to"></picture></p>
 
-<p><a href="https://github.com/boykopovar/AnyPS5"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipe1os/pipe1os/cards-output/pin-boykopovar-anyps5-dark.svg"><img src="https://raw.githubusercontent.com/pipe1os/pipe1os/cards-output/pin-boykopovar-anyps5-light.svg" width="32.8%" alt="boykopovar/AnyPS5"></picture></a><img src="assets/gap.svg" width="0.7%" alt=""><a href="https://github.com/withastro/astro"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipe1os/pipe1os/cards-output/pin-withastro-astro-dark.svg"><img src="https://raw.githubusercontent.com/pipe1os/pipe1os/cards-output/pin-withastro-astro-light.svg" width="32.8%" alt="withastro/astro"></picture></a><img src="assets/gap.svg" width="0.7%" alt=""><a href="https://github.com/strands-agents/harness-sdk"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipe1os/pipe1os/cards-output/pin-strands-agents-harness-sdk-dark.svg"><img src="https://raw.githubusercontent.com/pipe1os/pipe1os/cards-output/pin-strands-agents-harness-sdk-light.svg" width="32.8%" alt="strands-agents/harness-sdk"></picture></a></p>
+<p><a href="https://github.com/withastro/astro"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipe1os/pipe1os/cards-output/pin-withastro-astro-dark.svg"><img src="https://raw.githubusercontent.com/pipe1os/pipe1os/cards-output/pin-withastro-astro-light.svg" width="49.6%" alt="withastro/astro"></picture></a><img src="assets/gap.svg" width="0.8%" alt=""><a href="https://github.com/trpc/trpc"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipe1os/pipe1os/cards-output/pin-trpc-trpc-dark.svg"><img src="https://raw.githubusercontent.com/pipe1os/pipe1os/cards-output/pin-trpc-trpc-light.svg" width="49.6%" alt="trpc/trpc"></picture></a></p>
+
+<p><a href="https://github.com/strands-agents/harness-sdk"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipe1os/pipe1os/cards-output/pin-strands-agents-harness-sdk-dark.svg"><img src="https://raw.githubusercontent.com/pipe1os/pipe1os/cards-output/pin-strands-agents-harness-sdk-light.svg" width="49.6%" alt="strands-agents/harness-sdk"></picture></a><img src="assets/gap.svg" width="0.8%" alt=""><a href="https://github.com/boykopovar/AnyPS5"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipe1os/pipe1os/cards-output/pin-boykopovar-anyps5-dark.svg"><img src="https://raw.githubusercontent.com/pipe1os/pipe1os/cards-output/pin-boykopovar-anyps5-light.svg" width="49.6%" alt="boykopovar/AnyPS5"></picture></a></p>
 
 <br>
 
@@ -24,7 +26,7 @@
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-stack-dark.svg"><img src="assets/title-stack-light.svg" width="100%" alt="Stack"></picture></p>
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Daily: TypeScript, React, Next.js, Astro, PostgreSQL, Python, C++. Learning: Svelte, Docker, AWS, Go."></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Daily: TypeScript, React, Next.js, Astro, Python, C++. Learning: Svelte, Docker, AWS, Go, PostgreSQL."></picture></p>
 
 <br>
 
